@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-andrew--magnuson03-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-magnuson03/)](https://www.linkedin.com/in/jlim/)
 [![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajwmagnuson@gmail.com)](mailto:ajwmagnuson@gmail.com)
 
+Hi! I'm Andrew Magnuson - a second year Engineering Science student at the University of Toronto.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajwm8103&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
