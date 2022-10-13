@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub followers](https://img.shields.io/github/followers/ajwm8103?label=Follow&style=social)](https://github.com/ajwm8103) 
+[![Linkedin Badge](https://img.shields.io/badge/-andrew--magnuson03-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-magnuson03/)](https://www.linkedin.com/in/jlim/)
+[![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajwmagnuson@gmail.com)](mailto:ajwmagnuson@gmail.com)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajwm8103&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical)
