@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/ajwm8103?label=Follow&style=social)](https://github.com/ajwm8103) 
 [![Linkedin Badge](https://img.shields.io/badge/-andrew--magnuson03-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-magnuson03/)](https://www.linkedin.com/in/jlim/)
 [![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajwmagnuson@gmail.com)](mailto:ajwmagnuson@gmail.com)
+[![wakatime](https://wakatime.com/badge/user/5549ba45-1b90-48f0-b8be-fcf56935124e.svg)](https://wakatime.com/@5549ba45-1b90-48f0-b8be-fcf56935124e)
 
 Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm currently studying Engineering Science at the University of Toronto, directing the Virtual Creatures project at UTMIST, and creating music.
 <img align='right' src='https://media.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif' width='150'>
