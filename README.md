@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub followers](https://img.shields.io/github/followers/ajwm8103?label=Follow&style=social)](https://github.com/ajwm8103) 
-[![Linkedin Badge](https://img.shields.io/badge/-andrew--magnuson03-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-magnuson03/)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-andrew--magnuson03-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-magnuson03/)](https://www.linkedin.com/in/andrew-magnuson03/)
 [![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajwmagnuson@gmail.com)](mailto:ajwmagnuson@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/5549ba45-1b90-48f0-b8be-fcf56935124e.svg)](https://wakatime.com/@5549ba45-1b90-48f0-b8be-fcf56935124e)
 
