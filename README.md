@@ -26,4 +26,6 @@ Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical)
 
-![Mandelbrot in one line of Python](mandelbrot.png)
+![Mandelbrot in one line of Python](mandelbrot_image.jpg)
+
+![Shootout AI](shootout.gif)
