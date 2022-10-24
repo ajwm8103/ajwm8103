@@ -28,4 +28,6 @@ Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm
 
 ![Shootout AI](shootout.gif)
 
+![BrawlTarget AI](brawltarget.gif)
+
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical)
