@@ -1,4 +1,4 @@
-### Hi there 👋
+# Andrew Magnuson
 
 <!--
 **ajwm8103/ajwm8103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
