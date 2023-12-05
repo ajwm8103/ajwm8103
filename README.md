@@ -30,4 +30,4 @@ Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm
 <img src = "shootout.gif" width=300>
 <img src = "brawltarget.gif" width=500>
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical)
+![Andrew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
