@@ -29,8 +29,11 @@ Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm
 <div style="display: flex; justify-content: space-around;">
   <img src="mandelbrot_image.jpg" width="400">
   <img src="jump.gif" width="200">
+  <img src = "swim.gif" width=300>
+  <img src = "brawltarget.gif" width=500>
+  <img src = "franka.gif" width=300>
   <img src = "shootout.gif" width=300>
 </div>
-<img src = "brawltarget.gif" width=500>
+
 
 ![Andrew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
