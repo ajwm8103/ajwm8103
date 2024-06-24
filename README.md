@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajwmagnuson@gmail.com)](mailto:ajwmagnuson@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/5549ba45-1b90-48f0-b8be-fcf56935124e.svg)](https://wakatime.com/@5549ba45-1b90-48f0-b8be-fcf56935124e)
 
+Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm currently studying Engineering Science at the University of Toronto and serving as the co-president of [UofT's largest undergraduate machine learning club](https://utmist.gitlab.io/). I'm also engaged in research with the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/#/) and the [CleverHans Lab](https://cleverhans-lab.github.io/), and creating educational content on [AI Warehouse](https://www.youtube.com/@aiwarehouse/videos).
 
-Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm currently studying Engineering Science at the University of Toronto, leading [UTMIST's Engineering Department](https://utmist.gitlab.io/team/engineering/), researching with the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/#/) and the [CleverHans Lab](https://cleverhans-lab.github.io/), and creating [music](https://open.spotify.com/artist/6TLzpeWf38d2D5sphWBRiU?si=dZxTA0jpQK6precbLEhJqA).
 <img align='right' src='https://media.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif' width='150'>
 ### What I'm Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ajwm8103&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
