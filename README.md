@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/ajwm8103?label=Follow&style=social)](https://github.com/ajwm8103) 
 [![Linkedin Badge](https://img.shields.io/badge/-andrew--magnuson--03-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-magnuson-03/)](https://www.linkedin.com/in/andrew-magnuson-03/)
 [![Website](https://img.shields.io/badge/andrewmagnuson.ca--green?style=social&logo=google%20chrome)](https://www.andrewmagnuson.ca/) 
-[![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ajwmagnuson@gmail.com)](mailto:ajwmagnuson@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ajwmagnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.magnuson@mail.utoronto.ca)](mailto:andrew.magnuson@mail.utoronto.ca)
 [![wakatime](https://wakatime.com/badge/user/5549ba45-1b90-48f0-b8be-fcf56935124e.svg)](https://wakatime.com/@5549ba45-1b90-48f0-b8be-fcf56935124e)
 
 Hi! I'm Andrew Magnuson - a student, AI-enthusiast, and creative programmer. I'm currently studying Engineering Science at the University of Toronto and serving as the co-president of [UofT's largest undergraduate machine learning club](https://utmist.gitlab.io/). I'm also engaged in research with the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/#/) and the [CleverHans Lab](https://cleverhans-lab.github.io/), and creating educational content on [AI Warehouse](https://www.youtube.com/@aiwarehouse/videos).
