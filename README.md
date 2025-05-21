@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/andrewmagnuson.ca--green?style=social&logo=google%20chrome)](https://www.andrewmagnuson.ca/) 
 [![Gmail Badge](https://img.shields.io/badge/-andrew.magnuson-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrew.magnuson@mail.utoronto.ca)](mailto:andrew.magnuson@mail.utoronto.ca)
 [![wakatime](https://wakatime.com/badge/user/5549ba45-1b90-48f0-b8be-fcf56935124e.svg)](https://wakatime.com/@5549ba45-1b90-48f0-b8be-fcf56935124e)
+![](https://komarev.com/ghpvc/?username=ajwm8103)
 
-Hi, I'm Andrew Magnuson - a student, musician, and creative programmer. I'm currently studying Engineering Science at the University of Toronto and serving as the co-president of [UofT's largest undergraduate machine learning club](https://utmist.gitlab.io/). I'm also engaged in research with the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/#/) and the [CleverHans Lab](https://cleverhans-lab.github.io/), as well as creating educational content on [AI Warehouse](https://www.youtube.com/@aiwarehouse/videos).
+Hi, I'm Andrew Magnuson - an AI researcher, student, and musician. I'm currently studying Engineering Science at the University of Toronto and working as an intern on the Solutions Architect AI Team at [NVIDIA](https://www.nvidia.com/en-us/ai/). I'm also engaged in research with the [WangLab @ UofT](https://wanglab.ai/), as well as creating educational content as the ML Lead at [AI Warehouse](https://www.youtube.com/@aiwarehouse/videos). Previously, I've served as the Co-President of [UofT's largest undergraduate machine learning club](https://utmist.gitlab.io/), and engaged in research with the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/#/) and the [CleverHans Lab](https://cleverhans-lab.github.io/).
 <img align='right' src='https://media.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif' width='150'>
 ### What I'm Listening To
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ajwm8103&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -31,8 +32,7 @@ Hi, I'm Andrew Magnuson - a student, musician, and creative programmer. I'm curr
   <img src = "swim.gif" width=300>
   <img src = "brawltarget.gif" width=500>
   <img src = "franka.gif" width=300>
-  <img src = "shootout.gif" width=300>
 </div>
 
 
-![Andrew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajwm8103&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
