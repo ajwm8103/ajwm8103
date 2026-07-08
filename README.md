@@ -26,8 +26,10 @@ Hi, I'm Andrew Magnuson - an AI researcher, student, and musician. I'm currently
 Working on multimodal DNA-vision-LLMs @ MLRG and RL @ AI Warehouse. Co-led UofT's Machine Intelligence Student Team. Previously worked on multimodal biological reasoning @ WangLab and the Arc Institute, granular material manipulation @ RVL, and ML regulation @ Vector Institute.
 
 <img align='right' src='https://media.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif' width='150'>
+
 ### What I'm Listening To
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ajwm8103&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ajwm8103&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <div style="display: flex; justify-content: space-around;">
   <img src="mandelbrot_image.jpg" width="400">
